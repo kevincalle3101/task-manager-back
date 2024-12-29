@@ -14,7 +14,7 @@ const options: swaggerJSDoc.Options = {
             }
         },
     },
-    apis: [`${path.join(__dirname, './router/*')}`],
+    apis: [`${path.join(__dirname, '../router/*')}`],
 }
 
 const swaggerSpec = swaggerJSDoc(options);
