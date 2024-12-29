@@ -26,11 +26,11 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 
 ### Instalación
 
-1. Clone the repo
+1. Clonar el repositorio
    ```sh
    git clone https://github.com/kevincalle3101/task-manager-back.git
    ```
-2. Install NPM packages
+2. Instalar NPM packages
    ```sh
    npm install
    ```
