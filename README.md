@@ -1,38 +1,34 @@
-﻿# task-manager-back
-<a name="readme-top"></a>
+﻿<a name="readme-top"></a>
 
-# Name Repository
+# Task-Manager-Back
 
-> Description.
+> API REST para manejar tareas.
 
-## Built With
-
-- Html
-- Css
-- JavaScript
-- Vue 
+## Hecho con:
+- Typescript
+- Express
+- Mongoose
 
 
-## Live Demo (if available)
+## Live Demo
 
-[Portfolio](https://gioudi.github.io/repository)
+[BACKEND URL](https://task-manager-back-production-101.up.railway.app/)
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+Hacer una copia local y seguir las siguientes simples instrucciones.
 
-### Prerequisites
+### PREREQUISITOS
 
 --Node 
 --Npm 
---Composer 
---Text editor (VsCode)
+--Editor de Texto (VsCode)
 
-### Install
+### Instalación
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:gioudi/repository.git
+   git clone https://github.com/kevincalle3101/task-manager-back.git
    ```
 2. Install NPM packages
    ```sh
@@ -42,31 +38,25 @@ To get a local copy up and running follow these simple example steps.
    yarn install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
-### Usage
+### Uso
 
-1.Run project
+1.Correr el proyecto
 
 ```sh
  npm run serve
 ```
 
-## Authors
+## Autor
 
-👤 **Author1**
+👤 **Autor**
 
-- GitHub: [@user](https://github.com/user)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/user/)
+- GitHub: [@user](https://github.com/kevincalle3101)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-calle-mendoza-53935b273/)
 
-## 🤝 Contributing
+## 🤝 Contribución
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/use/repository/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+Contribuciones, problemas and solicitudes son bienvenidos!
 
 ## Acknowledgments
