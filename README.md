@@ -61,9 +61,9 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 
 👤 **Autor**
 
-- GitHub: [@user](https://github.com/kevincalle3101)
+- GitHub: [@kevincalle3101](https://github.com/kevincalle3101)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-calle-mendoza-53935b273/)
 
 ## 🤝 Contribución
 
-Contribuciones, problemas and solicitudes son bienvenidos!
+Contribuciones, problemas y solicitudes son bienvenidos!
