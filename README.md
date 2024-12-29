@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[BACKEND URL](https://task-manager-back-production-101.up.railway.app/)
+[BACKEND URL](https://task-manager-back-production-101.up.railway.app/api-docs/)
 
 ## Getting Started
 
