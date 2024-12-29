@@ -58,5 +58,3 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 ## 🤝 Contribución
 
 Contribuciones, problemas and solicitudes son bienvenidos!
-
-## Acknowledgments
