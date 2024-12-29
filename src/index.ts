@@ -7,7 +7,7 @@ import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import router from './router/index';
 import swaggerUI from 'swagger-ui-express';
-import swaggerSpec from '../swagger/swagger'
+import swaggerSpec from './swagger/swagger'
 
 dotenv.config();
 
