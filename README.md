@@ -40,9 +40,9 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
-###Variables de Entorno
+### Variables de Entorno
 
-1.Crear un archivo ".env" y copiar las siguientes variables
+1.Crear un archivo ".env" y pegar las siguientes variables
 ```sh
  APP_PORT=3001
  MONGODB_USERNAME=kevincalle31
