@@ -8,13 +8,13 @@
 - Typescript
 - Express
 - Mongoose
-
+- Deocumentación con Swagger
 
 ## Live Demo
 
 [BACKEND URL](https://task-manager-back-production-101.up.railway.app/api-docs/)
 
-## Getting Started
+## Para comenzar
 
 Hacer una copia local y seguir las siguientes simples instrucciones.
 
@@ -64,6 +64,3 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 - GitHub: [@kevincalle3101](https://github.com/kevincalle3101)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-calle-mendoza-53935b273/)
 
-## 🤝 Contribución
-
-Contribuciones, problemas y solicitudes son bienvenidos!
